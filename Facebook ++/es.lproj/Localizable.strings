@@ -1,0 +1,116 @@
+
+"STEALTH_MODE" = "Modo Sigilo";
+
+"PRIVACY_SETTINGS_HEADER" = "Ajustes de privacidad de Messenger";
+
+"PRIVACY_SETTINGS_DESCRIPTION" = "Habilite esta opción para usar Facebook y el chat dentro de la aplicación sin mostrarle a tus amigos que te encuentras 'Online'.";
+
+"DISABLE_READ_RECEIPTS" = "Deshabilitar notificación de mensaje leído";
+
+"DISABLE_READ_RECEIPTS_FOOTER" = " Habilite esta opción para NO dejar que tus amigos sepan cuando has visto un mensaje.";
+
+"DISABLE_TYPING_RECEIPTS" = "Deshabilitar notificación de ‘escribiendo’";
+
+"DISABLE_TYPING_RECEIPTS_FOOTER" = "Habilite esta opción para NO dejar que tus amigos sepan cuando estas respondiendo su mensaje.";
+
+"SET_PASSCODE" = "Establecer código";
+
+"SECURITY_SETTINGS" = "Ajustes de seguridad";
+
+"ENTER_PASSWORD" = "Habilite una contraseña y/o TouchID para acceder a la aplicación de Facebook";
+
+"DELETE_PASSCODE" = "Borrar código";
+
+"MESSENGER_ENHANCEMENTS" = "Mejoramientos dentro de la aplicación Messenger";
+
+"TIME_STAMP_FOOTER" = "Por defecto, Facebook solo muestra la hora de envío del mensaje mas reciente. Esto mantiene visible la hora para todos los mensajes";
+
+"SEND_UNLIMITED_PHOTOS_FOOTER" = "La mensajería de Facebook solo te permite mandar 6 imágenes/fotos a la vez. Esto remueve ese límite.";
+
+"DISABLE_VOIP" = "La aplicación de Messenger ahora tiene VoIP habilitado automáticamente, permitiendo llamadas de voz. Sin embargo, esto drena la batería rápidamente. Habilite esta opción para apagar esta función.";
+
+"FACEBOOK_ENHANCMENTS" = "Mejoramientos de Facebook";
+
+"FACEBOOK_ENHANCMENTS_FOOTER" = " Oculta solo los letreros de la barra de navegación en la parte inferior de Facebook. Requiere reinicio de la aplicación.";
+
+"AUTOPLAY_FOOTER" = "Permite habilitar, deshabilitar o 'habilitar solo con conexión Wi-Fi' el autoplay de videos en tus noticias. El default es habilitado";
+
+"FULL_SCREEN_FOOTER" = "Oculta la barra superior en la sección Noticias de Facebook (solo en esta sección). Requiere reinicio de la aplicación.";
+
+"VIDEO_DOWNLOAD_BUTTON_FOOTER" = "Habilita 'Descargar video' y 'Copiar al Portapapeles' en los videos para que puedas guardar y compartir con tus amigos! El botón aparece en la parte inferior derecha de los videos.";
+
+"INLINE_VIDEO_PLAYBACK_FOOTER" = "Al tocar el sobre un video, el video no ocupa toda la pantalla. Se reproduce en su ventana original.";
+
+"EMPLOYEE_SETTINGS_TITLE" = "Ajustes de Empleado";
+
+"EMPLOYEE_SETTINGS_FOOTER" = "Ajustes de Empleado habilita ajustes internos que normalmente no están disponibles. Activa esta opción, reinicia FB, ve al menú 'Mas' y baja para seleccionar 'Ajustes Internos' para ver todas las opciones";
+
+"SIDEBAR_NAVIGATOR_TITLE" = "Barra lateral de navegación";
+
+"SIDEBAR_NAVIGATOR_FOOTER" = "Habilita la antigua barra lateral de navegación. Requiere reinicio de la aplicación";
+
+"ENABLE_TXT_COPY_TITLE" = "Habilita la copia de texto";
+
+"TEXT_HOLD_AND_COPY" = "Habilita la habilidad de sostener y copiar texto de publicaciones";
+
+"TOP_BAR_OPTIONS_TITLE" = "Opciones de Barra Superior";
+
+"TOP_BAR_OPTIONS_FOOTER" = "Habilita las opciones de acceso rápido en la barra de navegación";
+
+"SUPPORT_HEADER" = "Soporte";
+
+"SUPPORT_REMOVE_ADS_TITLE" = "Ayúdanos y remueve los anuncios por $2.00";
+
+"LOGOUT_FROM_FB" = "Cerrar Sesión en FB ++";
+
+"WARNING" = "Advertencia!";
+
+"STEALTH_MODE_WARNING_SUBTITLE" = "Habilitar el modo sigiloso resultara en no ser capaz de ver la fecha de ultima vez activo de otros debido a la manera en que los servidores de Facebook funcionan!";
+
+"CLOSE_BUTTON_OK" = "Ok";
+
+"OFF" = "Apagado";
+
+"ON" = "Encendido";
+
+"WIFI_ONLY" = "Solo Wi-Fi";
+
+"FACEBOOK++_SETTINGS" = "Ajustes de Facebook ++";
+
+"NO_THANKS_ALERT" = "No Gracias";
+
+"HEY_THERE_ALERT" = "Oye!";
+
+"TWEET_TO_REMOVE_ADS" = "Tuitear removerá los anuncios de FB++ por 1.5 semanas. Puedes tuitear GRATIS cada semana. Tu ayuda es grandiosa!";
+
+"PASSCODE_ALREADY_EXISTS" = "El código ya existe";
+
+"DELETE_PASSCODE_TO_SET_NEW" = "Para establecer uno nuevo, por favor borre el existente";
+
+"OK" = "Ok";
+
+"NO_PASSCODE" = "Sin código";
+
+"MISSING_INFORMATION" = "Información Faltante";
+
+"FILL_OUT_ALL_INFO" = "Asegúrate de llenar toda la información!";
+
+"PAYMENT_THANK_YOU_TITLE" = "Gracias!";
+
+"PAYMENT_CONFIRMATION" = "Has removido los anuncios de FB++ para siempre. Gracias por tu ayuda, significa mucho!";
+
+"PAYMENT_OK" = "Okay!";
+
+"CLOSE_APP" = "Cerrar aplicación";
+
+"CANCEL" = "Cancelar";
+
+"APP_RESTART_REQUIRED" = "Habilitar esta función requiere el reinicio de la aplicación de Facebook. Puedes cerrarla ahora seleccionando 'Cerrar Aplicación' y reiniciar.";
+
+"ADD_REMOVAL" = "Remover anuncios de FB ++";
+
+"MAIN_FEED_TYPE" = "Activar Feed por Los más recientes";
+
+"MAIN_FEED_TYPE_HEADER" = "Tipo de Selección de Feed";
+
+"MAIN_FEED_TYPE_DESCRIPTION" = "Al activar este interruptor en organizará su Feed por Los más recientes en lugar de la popular";
