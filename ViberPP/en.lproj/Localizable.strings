@@ -61,7 +61,7 @@
     "SLIM_BARS_DESC" = "Makes Viber's bars slimmer freeing up more screen space fo chat and other things";
     "HIDE_CHAT_BADGE_DESC" = "No longer get badges (small number on Viber icon) when you get a chat";
     "HIDE_STICKER_BADGE_DESC" = "No longer get badges (small number on Viber icon) when you get a sticker";
-    "HIDE_BAR_ICON_BADGE_DESC" = "Disable the Viber icon in your device’s menu bar to indicate that Viber is running";
+    "HIDE_BAR_ICON_BADGE_DESC" = "Disable all Viber Badge Notifications inside the Viber bottom menu bar";
     "DISABLE_SOUNDS_DESC" = "Disable sounds from Viber";
     "DISABLE_VIBRATIONS_DESC" = "Disable Vibrations from Viber";
 }
